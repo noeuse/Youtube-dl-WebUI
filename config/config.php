@@ -6,7 +6,7 @@
 return array(
 	"security" => true,
 	"password" => "63a9f0ea7bb98050796b649e85481845",
-	"outputFolder" => "/raid/data/downloads/YouTube",
+	"outputFolder" => "/data",
 	"extracter" => "ffmpeg",
 	"max_dl" => 3);
 
