@@ -52,6 +52,7 @@ $allowed_ext = array (
   'wav' => 'audio/x-wav',
 
   // video
+  'mp4' => 'video/mpeg',
   'mpeg' => 'video/mpeg',
   'mpg' => 'video/mpeg',
   'mpe' => 'video/mpeg',
