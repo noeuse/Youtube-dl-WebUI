@@ -1,6 +1,6 @@
 <?php
 
-//Default password is "root" with md5 hash
+//Default pass is "root" with md5 hash
 //No "/" at the end of outputFolder
 
 return array(
